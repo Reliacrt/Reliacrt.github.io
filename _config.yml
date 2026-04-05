@@ -1,4 +1,5 @@
-theme: jekyll-theme-simplex
+remote_theme: andreondra/jekyll-theme-simplex@0.9.4
+
 lsi: false
 safe: true
 source: [/docs]
