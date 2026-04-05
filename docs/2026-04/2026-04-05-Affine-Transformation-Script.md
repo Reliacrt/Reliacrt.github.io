@@ -31,7 +31,7 @@ From the perspective of the amygdala, it has a series $\mathbf{x}_{i}$ produced 
 The major function of intelligence is prediction. 
 Then the work of amygdala is to synthesize those three pieces of information to determine which source to optimize or to deal with other coping strategies.
 
-## Skill Acquisition
+### Skill Acquisition
 
 What are we doing at the course of skill acquistion, our cortex makes the greatest influence. Amygdala gets three kinds of signal, and find the signal from cortex was not good enough, then amygdala gave signal to basal forebrain to activate neurons throughout the entire cortex. Then the cortex will try to reform one more reasonable output $A\mathbf{x}_{i}$.
 
