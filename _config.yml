@@ -1,4 +1,4 @@
-remote_theme: andreondra/jekyll-theme-simplex@v0.9.4
+# remote_theme: andreondra/jekyll-theme-simplex@v0.9.4
 
 lsi: false
 safe: true
