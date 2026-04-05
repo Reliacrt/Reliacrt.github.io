@@ -1,3 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+title: 我的博客
+description: 欢迎来到我的世界
 lsi: false
 safe: true
 source: [/docs]
@@ -5,6 +8,7 @@ incremental: false
 highlighter: rouge
 gist:
   noscript: false
+markdown: kramdown
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
